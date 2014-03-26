@@ -7,15 +7,16 @@
 お預りした個人情報は，合宿の開催に必要不可欠な範囲（参加者と事前に連絡をとるため，宿泊者を確定し会場施設に報告するため）にのみ使用し，流用や再利用が発生しないように厳正に取り扱い，合宿終了後すみやかに適切な方法で廃棄します．
 
 ** メモ
+- 京都府立ゼミナールハウス
+  - http://kyosemi.or.jp/
+  - 施設利用案内 http://kyosemi.or.jp/_userdata/onegai.pdf
+  - 宿泊料金など http://kyosemi.or.jp/_userdata/roomprice.pdf
+  - ゼミ室利用料金など http://kyosemi.or.jp/_userdata/seminarprice.pdf
 - JRバス
   - 料金 http://www.nishinihonjrbus.co.jp/other_bus/takao_keihoku_line_deta/20131221takakei_charge.pdf
   - 路線 http://www.nishinihonjrbus.co.jp/other_bus/takao-keihoku_information.html
   - 時刻表(京都駅発) http://www.nishinihonjrbus.co.jp/other_bus/takao_keihoku_line_deta/takao_keihoku_downnewnew2.pdf
   - 時刻表(京都駅着) http://www.nishinihonjrbus.co.jp/other_bus/takao_keihoku_line_deta/takao_keihoku_upnewnew2.pdf
-- 京都府立ゼミナールハウス http://kyosemi.or.jp/
-- 施設利用案内 http://kyosemi.or.jp/_userdata/onegai.pdf
-- 宿泊料金など http://kyosemi.or.jp/_userdata/roomprice.pdf
-- ゼミ室利用料金など http://kyosemi.or.jp/_userdata/seminarprice.pdf
 
 ** 事前準備
 - たこ足延長コード持参
